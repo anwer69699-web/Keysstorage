@@ -1,9 +1,6 @@
-[
-  {
-    "key": "NHS-ObI0-FVdC-7zbg-WlQd",
-    "type": "3d",
-    "duration": "3 أيام",
-    "createdAt": 1778378878287,
-    "usedBy": null
+{
+  "keys": {
+    "NX-001": "10649855615",
+    "NX-002": "USER_ID_HERE"
   }
-]
+}
