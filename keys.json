@@ -1,17 +1,16 @@
 {
   "vip_keys": [
     {
-      "key": "VIP-MOHAMMED-123",
+      "key": "Nx-.1",
       "userid": 123456789
     },
     {
-      "key": "VIP-AHMED-456",
+      "key": "Nx-.2",
       "userid": 987654321
     }
   ],
   "seller_keys": [
-    "SELLER-KEY-1",
-    "SELLER-KEY-2",
-    "SELLER-KEY-3"
+    "SELLER-KEY-1"
+
   ]
 }
