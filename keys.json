@@ -1,16 +1,10 @@
 {
   "vip_keys": [
-    {
-      "key": "Nx-.1",
-      "userid": 2332815794
-    },
-    {
-      "key": "Nx-.2",
-      "userid": 987654321
-    }
+    {"key": "Nuxus-VIP-1", "userid": 123456789},
+    {"key": "Nuxus-VIP-2", "userid": 987654321}
   ],
   "seller_keys": [
-    "SELLER-KEY-1"
-
+    "Nuxus-Seller-A",
+    "Nuxus-Seller-B"
   ]
 }
