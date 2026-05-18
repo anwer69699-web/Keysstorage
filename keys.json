@@ -1,4 +1,11 @@
 {
   "free_key_active": true,
-  "vip_users": [123456789, 987654321]
+  "vip_users": [
+    123456789,
+    987654321
+  ],
+  "permanent_keys": [
+    "NX-FOREVER-KEY1",
+    "NX-SHARED-KEY2"
+  ]
 }
