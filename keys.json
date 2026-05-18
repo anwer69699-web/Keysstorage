@@ -1,7 +1,17 @@
 {
-  "vip_users": [123456789, 987654321],
+  "vip_keys": [
+    {
+      "key": "VIP-MOHAMMED-123",
+      "userid": 123456789
+    },
+    {
+      "key": "VIP-AHMED-456",
+      "userid": 987654321
+    }
+  ],
   "seller_keys": [
-    "NUXUS-SELLER-KEY-1",
-    "NUXUS-SELLER-KEY-2"
+    "SELLER-KEY-1",
+    "SELLER-KEY-2",
+    "SELLER-KEY-3"
   ]
 }
